@@ -19,3 +19,6 @@ export const controls = [
 
   export const source =
     "https://hamdeli.arvanvod.com/1ONjonw57P/XdwJQjGM13/h_,108_200,178_400,268_800,358_1500,536_2500,804_3076,k.mp4.list/master.m3u8";
+
+
+  export const advertisement_places =["00:00:10","00:05:10","00:10:10","00:50:10","01:00:10",]
